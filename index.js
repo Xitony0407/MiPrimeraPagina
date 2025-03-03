@@ -12,3 +12,4 @@ const feature2 = "Haciendo feature 2";
   <p>Copyright 2025</p>
   <footer>Trabajando en el footer</footer>
 </div>
+
